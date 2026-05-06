@@ -1,1 +1,6 @@
-
+{
+  "station": "Classic FM",
+  "action": "android.intent.action.VIEW",
+  "uri": "globalplayer://live-radio/classicfm",
+  "package": "com.global.player"
+}
