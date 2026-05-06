@@ -20,3 +20,4 @@ To bypass manual navigation and use a voice command ("Hey Google") to trigger a 
 ## Notes
 - Ensure Global Player is installed and you are logged in.
 - This bypasses the need to manually "hit" the icon on the screen.
+- Maintained by Pantelis
